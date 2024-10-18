@@ -1,2 +1,153 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Books on Pedro's Blog</title><link>http://pedrocecchetti.github.io/books/</link><description>Recent content in Books on Pedro's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://pedrocecchetti.github.io/books/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://pedrocecchetti.github.io/books/books_list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://pedrocecchetti.github.io/books/books_list/</guid><description>Books This will be a list of books I read each year. Before 2024 will be what I can remember from old books I read. Maybe in the future I can also make some critics and comments but for now we have the links and names
-2024 Title Type Language Rating Harry Potter und die Kammer des Schreckens Fantasy DE-de ⭐⭐⭐ Glauben Sie an die Wahrheit Comic DE-de ⭐⭐⭐⭐⭐ Harry Potter und der Gefangene von Azkaban- Fantasy DE-de ⭐⭐⭐ Der ZeitRaum Comic DE-de ⭐⭐⭐⭐⭐ 1984 Comic PT-br ⭐⭐⭐⭐ Von Unten Comic DE-de/EN ⭐⭐⭐ The last Goodbye Thriller EN-en ⭐⭐⭐⭐⭐ Nowhere Girl Comic EN-en ⭐⭐⭐⭐⭐ 2023 Title Type Language Rating Salvar o fogo Romance PT-br ⭐⭐⭐⭐⭐ Hearthstopper Comic PT-br ⭐⭐⭐⭐⭐ Pragmatic Programmer Comic PT-br ⭐⭐⭐⭐⭐ 2022 Title Type Language Rating Torto Arado Romance Portuguese BR ⭐⭐⭐⭐⭐ Fluent Python Tech English ⭐⭐⭐⭐⭐</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Books on Pedro's Blog</title><link>http://pedrocecchetti.github.io/books/</link><description>Recent content in Books on Pedro's Blog</description><generator>Hugo -- 0.136.2</generator><language>en-us</language><atom:link href="http://pedrocecchetti.github.io/books/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://pedrocecchetti.github.io/books/books_list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://pedrocecchetti.github.io/books/books_list/</guid><description>&lt;h1 id="books">Books&lt;/h1>
+&lt;p>This will be a list of books I read each year. Before 2024 will be what I can remember from old books I read.
+Maybe in the future I can also make some critics and comments but for now we have the links and names&lt;/p>
+&lt;h2 id="2024">2024&lt;/h2>
+&lt;hr>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Title&lt;/th>
+&lt;th style="text-align: center">Type&lt;/th>
+&lt;th style="text-align: center">Language&lt;/th>
+&lt;th style="text-align: center">Rating&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.carlsen.de/taschenbuch/harry-potter-und-die-kammer-des-schreckens-harry-potter-2/978-3-551-35402-0">Harry Potter und die Kammer des Schreckens&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">DE-de&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.carlsen.de/hardcover/glauben-sie-die-wahrheit/978-3-551-72329-1">Glauben Sie an die Wahrheit&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">DE-de&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.carlsen.de/taschenbuch/harry-potter-und-der-gefangene-von-askaban-harry-potter-3/978-3-551-35403-7">Harry Potter und der Gefangene von Azkaban&lt;/a>-&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">DE-de&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.carlsen.de/hardcover/der-zeitraum/978-3-551-71086-4">Der ZeitRaum&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">DE-de&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.companhiadasletras.com.br/livro/9788535932522/1984-edicao-em-quadrinhos">1984&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">PT-br&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.avant-verlag.de/comics/von-unten/">Von Unten&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">DE-de/EN&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.goodreads.com/book/show/63112065-the-last-goodbye%22">The last Goodbye&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Thriller&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left"> &lt;a href="https://www.thalia.de/shop/home/artikeldetails/A1063835776?ProvID=11000533&amp;amp;gad_source=1&amp;amp;gclid=CjwKCAiAibeuBhAAEiwAiXBoJJyRaRrdbrA2GsYAf9p4xGYiYDj3kIMfJK5mJEbcSIKnGP1ooGq2eRoCsowQAvD_BwE">Nowhere Girl&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left"> &lt;a href="https://www.tausendkind.de/artikel/buch/harry-potter-and-the-order-of-the-phoenix_25732353-1?srsltid=AfmBOoqVzC6oeBIakHGlAAxNwvSvrJpwPuMqb1bFZEBgA5AVANjVCdHExxM">Harry Potter and The Order of the Phoenix&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left"> &lt;a href="https://www.bloomsbury.com/uk/harry-potter-and-the-halfblood-prince-9781408894767/">Harry Potter and The Half Blood Prince&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left"> &lt;a href="https://www.bloomsbury.com/uk/harry-potter-and-the-deathly-hallows-9781408894743/">Harry Potter and The Deathly Hallows&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.amazon.com.br/contadora-Freida-McFadden/dp/8501922056">A contadora&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.amazon.de/Assim-que-Acaba-Colleen-Hoover/dp/8501112518">É Assim Que Acaba&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Thriller&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="2023">2023&lt;/h1>
+&lt;hr>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Title&lt;/th>
+&lt;th style="text-align: center">Type&lt;/th>
+&lt;th style="text-align: center">Language&lt;/th>
+&lt;th style="text-align: center">Rating&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://todavialivros.com.br/livros/salvar-o-fogo">Salvar o fogo&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Romance&lt;/td>
+&lt;td style="text-align: center">PT-br&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.companhiadasletras.com.br/livro/9788555341618/heartstopper-dois-garotos-um-encontro-vol-1">Hearthstopper&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">PT-br&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/">Pragmatic Programmer&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">PT-br&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="2022">2022&lt;/h1>
+&lt;hr>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Title&lt;/th>
+&lt;th style="text-align: center">Type&lt;/th>
+&lt;th style="text-align: center">Language&lt;/th>
+&lt;th style="text-align: center">Rating&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://todavialivros.com.br/livros/torto-arado">Torto Arado&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Romance&lt;/td>
+&lt;td style="text-align: center">Portuguese BR&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.oreilly.com/library/view/fluent-python/9781491946237/">Fluent Python&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Tech&lt;/td>
+&lt;td style="text-align: center">English&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

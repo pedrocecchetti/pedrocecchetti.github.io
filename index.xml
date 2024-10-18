@@ -1,10 +1,177 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pedro's Blog</title><link>http://pedrocecchetti.github.io/</link><description>Recent content on Pedro's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 23 Feb 2023 17:00:00 +0200</lastBuildDate><atom:link href="http://pedrocecchetti.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>A discussion about Fatherhood and kids</title><link>http://pedrocecchetti.github.io/posts/iamafather/</link><pubDate>Thu, 23 Feb 2023 17:00:00 +0200</pubDate><guid>http://pedrocecchetti.github.io/posts/iamafather/</guid><description>First a Disclaimer here: I do respect and find it legitimate the decision of People that do not want to have kids I understand that kids can sometimes be inconvenient for some living standards (they are noisy, cannot regulate themselves easily) Saying that lets go to the text&amp;hellip;
-Kids are also People I was living my life as usual, when suddenly I bumped into this message on a whatsapp group</description></item><item><title>Reading Pragmatic Programmer - Part 2</title><link>http://pedrocecchetti.github.io/posts/pragprog2/</link><pubDate>Fri, 01 Apr 2022 10:41:02 +0200</pubDate><guid>http://pedrocecchetti.github.io/posts/pragprog2/</guid><description>New points for the book Throughout the book there are some Challenges proposed to the reader as well as exercises to to practice some concepts learned through the book.
-There is also Tips that translates the ideas of each one the sections. There are some really useful tips like this one.
-Chapter 1, 2 and 3&amp;hellip; These chapters were a very nice beginning for this adventure and left me already with a lot to think, and most important, to do!</description></item><item><title>Reading Pragmatic Programmer</title><link>http://pedrocecchetti.github.io/posts/pragprog1/</link><pubDate>Wed, 23 Mar 2022 10:41:02 +0200</pubDate><guid>http://pedrocecchetti.github.io/posts/pragprog1/</guid><description>It was already time! I had a copy of the Pragmatic Programmer, in a PDF shitty format. And that was my excuse to no read it.
-I have always been keen of the philosoy to credit people for their work. I understand that in Brazil leisure is not that accessible as in other places in the world so I don&amp;rsquo;t blame people buying recorded movies from cinemas. I understand the struggle.</description></item><item><title>I will continue to study Elixir</title><link>http://pedrocecchetti.github.io/posts/iwillcontinuestudyingelixir/</link><pubDate>Mon, 10 Jan 2022 21:48:02 +0200</pubDate><guid>http://pedrocecchetti.github.io/posts/iwillcontinuestudyingelixir/</guid><description>I took part in a selection process in a company that I was really interested in working with.
-The process till the last interview was smooth and pretty nice. The end I was a little bit frustrated because was not selected to continue in the process but in the end it was very important for me in a way and I will explain why.
-Prologue I think it is important to point out that I am a Quereinsteiger and came from the chemical Engineering area, so I am probably not the profile you search if you want someone with fluent IT theoretical and algorithmy knowledge.</description></item><item><title>Like HSM teached us, 'This is me'</title><link>http://pedrocecchetti.github.io/posts/startpost/</link><pubDate>Sun, 24 Oct 2021 14:53:02 +0200</pubDate><guid>http://pedrocecchetti.github.io/posts/startpost/</guid><description>Introduction It is pretty hard to start a text to talk about yourself, even more difficult is to write an introduction about atext that talk about yourself, but let&amp;rsquo;s do it! 😎
-This text will containt what made me come to where I am right now. This is merely an selfanalysis that I decided to transform in a Blog Post.
-So if you like long stories, you are welcome to read through it!</description></item><item><title/><link>http://pedrocecchetti.github.io/books/books_list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://pedrocecchetti.github.io/books/books_list/</guid><description>Books This will be a list of books I read each year. Before 2024 will be what I can remember from old books I read. Maybe in the future I can also make some critics and comments but for now we have the links and names
-2024 Title Type Language Rating Harry Potter und die Kammer des Schreckens Fantasy DE-de ⭐⭐⭐ Glauben Sie an die Wahrheit Comic DE-de ⭐⭐⭐⭐⭐ Harry Potter und der Gefangene von Azkaban- Fantasy DE-de ⭐⭐⭐ Der ZeitRaum Comic DE-de ⭐⭐⭐⭐⭐ 1984 Comic PT-br ⭐⭐⭐⭐ Von Unten Comic DE-de/EN ⭐⭐⭐ The last Goodbye Thriller EN-en ⭐⭐⭐⭐⭐ Nowhere Girl Comic EN-en ⭐⭐⭐⭐⭐ 2023 Title Type Language Rating Salvar o fogo Romance PT-br ⭐⭐⭐⭐⭐ Hearthstopper Comic PT-br ⭐⭐⭐⭐⭐ Pragmatic Programmer Comic PT-br ⭐⭐⭐⭐⭐ 2022 Title Type Language Rating Torto Arado Romance Portuguese BR ⭐⭐⭐⭐⭐ Fluent Python Tech English ⭐⭐⭐⭐⭐</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Pedro's Blog</title><link>http://pedrocecchetti.github.io/</link><description>Recent content on Pedro's Blog</description><generator>Hugo -- 0.136.2</generator><language>en-us</language><lastBuildDate>Thu, 23 Feb 2023 17:00:00 +0200</lastBuildDate><atom:link href="http://pedrocecchetti.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>A discussion about Fatherhood and kids</title><link>http://pedrocecchetti.github.io/posts/iamafather/</link><pubDate>Thu, 23 Feb 2023 17:00:00 +0200</pubDate><guid>http://pedrocecchetti.github.io/posts/iamafather/</guid><description>&lt;h4 id="first-a-disclaimer-here">First a Disclaimer here:&lt;/h4>
+&lt;ul>
+&lt;li>I do respect and find it legitimate the decision of People that do not want to have kids&lt;/li>
+&lt;li>I understand that kids can sometimes be inconvenient for some living standards (they are noisy, cannot regulate themselves easily)&lt;/li>
+&lt;/ul>
+&lt;p>Saying that lets go to the text&amp;hellip;&lt;/p>
+&lt;hr>
+&lt;h1 id="kids-are-also-people">Kids are also People&lt;/h1>
+&lt;p>I was living my life as usual, when suddenly I bumped into this message on a whatsapp group&lt;/p></description></item><item><title>Reading Pragmatic Programmer - Part 2</title><link>http://pedrocecchetti.github.io/posts/pragprog2/</link><pubDate>Fri, 01 Apr 2022 10:41:02 +0200</pubDate><guid>http://pedrocecchetti.github.io/posts/pragprog2/</guid><description>&lt;h1 id="new-points-for-the-book">New points for the book&lt;/h1>
+&lt;p>Throughout the book there are some Challenges proposed to the reader as well as exercises to to practice some concepts learned through the book.&lt;/p>
+&lt;p>There is also Tips that translates the ideas of each one the sections. There are some really useful tips like &lt;a href="https://www.instagram.com/p/CbvenMRsiF5/?utm_source=ig_web_copy_link">this one&lt;/a>.&lt;/p>
+&lt;h1 id="chapter-1-2-and-3">Chapter 1, 2 and 3&amp;hellip;&lt;/h1>
+&lt;p>These chapters were a very nice beginning for this adventure and left me already with a lot to think, and most important, &lt;strong>to do!&lt;/strong>.&lt;/p></description></item><item><title>Reading Pragmatic Programmer</title><link>http://pedrocecchetti.github.io/posts/pragprog1/</link><pubDate>Wed, 23 Mar 2022 10:41:02 +0200</pubDate><guid>http://pedrocecchetti.github.io/posts/pragprog1/</guid><description>&lt;h1 id="it-was-already-time">It was already time!&lt;/h1>
+&lt;p>I had a copy of the &lt;strong>Pragmatic Programmer&lt;/strong>, in a PDF shitty format. And that was my excuse to no read it.&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://media.giphy.com/media/B2eMVGWf0qCLP1GL6e/giphy.gif#center" alt="really queen" />
+&lt;/p>
+&lt;p>I have always been keen of the philosoy to credit people for their work. I understand that in Brazil leisure is not that accessible as in other places in the world so I don&amp;rsquo;t blame people buying recorded movies from cinemas. I understand the struggle.&lt;/p></description></item><item><title>I will continue to study Elixir</title><link>http://pedrocecchetti.github.io/posts/iwillcontinuestudyingelixir/</link><pubDate>Mon, 10 Jan 2022 21:48:02 +0200</pubDate><guid>http://pedrocecchetti.github.io/posts/iwillcontinuestudyingelixir/</guid><description>&lt;p>I took part in a selection process in a company that I was really interested in working with.&lt;/p>
+&lt;p>The process till the last interview was smooth and pretty nice. The end I was a little bit frustrated because was not selected to continue in the process but in the end it was very important for me in a way and I will explain why.&lt;/p>
+&lt;h2 id="prologue">Prologue&lt;/h2>
+&lt;p>I think it is important to point out that I am a &lt;strong>Quereinsteiger&lt;/strong> and came from the chemical Engineering area, so I am probably not the profile you search if you want someone with fluent IT theoretical and algorithmy knowledge.&lt;/p></description></item><item><title>Like HSM teached us, 'This is me'</title><link>http://pedrocecchetti.github.io/posts/startpost/</link><pubDate>Sun, 24 Oct 2021 14:53:02 +0200</pubDate><guid>http://pedrocecchetti.github.io/posts/startpost/</guid><description>&lt;p>&lt;img loading="lazy" src="https://media.giphy.com/media/2hgw7sgwwII4oSZf36/giphy.gif" alt="this is me" />
+&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>It is pretty hard to start a text to talk about yourself, even more difficult is to write an introduction about atext that talk about yourself, but let&amp;rsquo;s do it! 😎&lt;/p>
+&lt;p>This text will containt what made me come to where I am right now. This is merely an selfanalysis that I decided to transform in a Blog Post.&lt;/p>
+&lt;p>So if you like long stories, you are welcome to &lt;strong>read through it&lt;/strong>!&lt;/p></description></item><item><title/><link>http://pedrocecchetti.github.io/books/books_list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://pedrocecchetti.github.io/books/books_list/</guid><description>&lt;h1 id="books">Books&lt;/h1>
+&lt;p>This will be a list of books I read each year. Before 2024 will be what I can remember from old books I read.
+Maybe in the future I can also make some critics and comments but for now we have the links and names&lt;/p>
+&lt;h2 id="2024">2024&lt;/h2>
+&lt;hr>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Title&lt;/th>
+&lt;th style="text-align: center">Type&lt;/th>
+&lt;th style="text-align: center">Language&lt;/th>
+&lt;th style="text-align: center">Rating&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.carlsen.de/taschenbuch/harry-potter-und-die-kammer-des-schreckens-harry-potter-2/978-3-551-35402-0">Harry Potter und die Kammer des Schreckens&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">DE-de&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.carlsen.de/hardcover/glauben-sie-die-wahrheit/978-3-551-72329-1">Glauben Sie an die Wahrheit&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">DE-de&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.carlsen.de/taschenbuch/harry-potter-und-der-gefangene-von-askaban-harry-potter-3/978-3-551-35403-7">Harry Potter und der Gefangene von Azkaban&lt;/a>-&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">DE-de&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.carlsen.de/hardcover/der-zeitraum/978-3-551-71086-4">Der ZeitRaum&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">DE-de&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.companhiadasletras.com.br/livro/9788535932522/1984-edicao-em-quadrinhos">1984&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">PT-br&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.avant-verlag.de/comics/von-unten/">Von Unten&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">DE-de/EN&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.goodreads.com/book/show/63112065-the-last-goodbye%22">The last Goodbye&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Thriller&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left"> &lt;a href="https://www.thalia.de/shop/home/artikeldetails/A1063835776?ProvID=11000533&amp;amp;gad_source=1&amp;amp;gclid=CjwKCAiAibeuBhAAEiwAiXBoJJyRaRrdbrA2GsYAf9p4xGYiYDj3kIMfJK5mJEbcSIKnGP1ooGq2eRoCsowQAvD_BwE">Nowhere Girl&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left"> &lt;a href="https://www.tausendkind.de/artikel/buch/harry-potter-and-the-order-of-the-phoenix_25732353-1?srsltid=AfmBOoqVzC6oeBIakHGlAAxNwvSvrJpwPuMqb1bFZEBgA5AVANjVCdHExxM">Harry Potter and The Order of the Phoenix&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left"> &lt;a href="https://www.bloomsbury.com/uk/harry-potter-and-the-halfblood-prince-9781408894767/">Harry Potter and The Half Blood Prince&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left"> &lt;a href="https://www.bloomsbury.com/uk/harry-potter-and-the-deathly-hallows-9781408894743/">Harry Potter and The Deathly Hallows&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.amazon.com.br/contadora-Freida-McFadden/dp/8501922056">A contadora&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Fantasy&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.amazon.de/Assim-que-Acaba-Colleen-Hoover/dp/8501112518">É Assim Que Acaba&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Thriller&lt;/td>
+&lt;td style="text-align: center">EN-en&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="2023">2023&lt;/h1>
+&lt;hr>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Title&lt;/th>
+&lt;th style="text-align: center">Type&lt;/th>
+&lt;th style="text-align: center">Language&lt;/th>
+&lt;th style="text-align: center">Rating&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://todavialivros.com.br/livros/salvar-o-fogo">Salvar o fogo&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Romance&lt;/td>
+&lt;td style="text-align: center">PT-br&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.companhiadasletras.com.br/livro/9788555341618/heartstopper-dois-garotos-um-encontro-vol-1">Hearthstopper&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">PT-br&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/">Pragmatic Programmer&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Comic&lt;/td>
+&lt;td style="text-align: center">PT-br&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="2022">2022&lt;/h1>
+&lt;hr>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Title&lt;/th>
+&lt;th style="text-align: center">Type&lt;/th>
+&lt;th style="text-align: center">Language&lt;/th>
+&lt;th style="text-align: center">Rating&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://todavialivros.com.br/livros/torto-arado">Torto Arado&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Romance&lt;/td>
+&lt;td style="text-align: center">Portuguese BR&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">&lt;a href="https://www.oreilly.com/library/view/fluent-python/9781491946237/">Fluent Python&lt;/a>&lt;/td>
+&lt;td style="text-align: center">Tech&lt;/td>
+&lt;td style="text-align: center">English&lt;/td>
+&lt;td style="text-align: center">⭐⭐⭐⭐⭐&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>
